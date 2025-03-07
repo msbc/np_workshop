@@ -1,6 +1,10 @@
-# Introduction to Numpy
+# Introduction to NumPy
 
 These are jupyter notebooks for an introductory course on numpy.
+
+## Based on/Forked from
+
+[Vineet Bansal's Introduction to Numpy](https://github.com/vineetbansal/np_workshop)
 
 ## Before the workshop
 
@@ -43,7 +47,7 @@ conda activate np_workshop
 
 If you're still having trouble with launching the notebooks locally on your computer, try Github codespaces. You can launch the notebooks in a browser without installing anything on your computer. Just click on the green button "Code" and select "Open with Codespaces".
 
-### Suggested Code Editors
+## Suggested Code Editors
 
 Picking a code editor is a *very* personal choice. Below are some suggetions that I have personally used. I will be using Visual Studio Code for this workshop.
 
