@@ -1,8 +1,13 @@
+# This file is used to create a conda environment with the necessary packages
+#
+# conda env create -f environment.yml
+# conda activate np-workshop
 name: np-workshop
-
+channels:
+  - conda-forge
+  - defaults
 dependencies:
+  - python
   - numpy
   - matplotlib
-  - notebook
-  - pip
-  - python
+  - jupyter
