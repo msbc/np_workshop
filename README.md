@@ -1,6 +1,6 @@
-# Introduction to NumPy
+# NumPy Done Right: Speed, Efficiency, and Best Practices
 
-These are jupyter notebooks for an introductory course on numpy.
+These are jupyter notebooks for an introductory course on NumPy, vectorization and optimization.
 
 ## Based on/Forked from
 
