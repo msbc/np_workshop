@@ -93,8 +93,8 @@ def exercise_3(array=None, seed=1234, plot=False):
 
     if plot:
         try:
-            import matplotlib.pyplot as plt
             import matplotlib as mpl
+            import matplotlib.pyplot as plt
 
             # Plot the array and the peaks
             plt.plot(array)
@@ -104,7 +104,7 @@ def exercise_3(array=None, seed=1234, plot=False):
             plt.ylabel("Value")
             plt.title("Peak Finding Algorithm")
 
-            # These are my personal preferences for the plot
+            # These are my personal preferences for plots
             ax = plt.gca()
             ax.xaxis.set_ticks_position('both')
             ax.yaxis.set_ticks_position('both')
